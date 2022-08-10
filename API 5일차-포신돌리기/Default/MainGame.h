@@ -32,6 +32,7 @@ private:
 	DWORD		m_dwTime;
 	DWORD		m_dwTime2;
 	DWORD		m_dwTime3;
+	int b;
 
 };
 
